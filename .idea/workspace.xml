@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9b5ca1c-db73-4c21-a769-c3fef4fddf4f" name="Changes" comment="Given a wrong test">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f9b5ca1c-db73-4c21-a769-c3fef4fddf4f" name="Changes" comment="Updated the test">
       <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678860605541</updated>
-      <workItem from="1678860607192" duration="4799000" />
+      <workItem from="1678860607192" duration="5216000" />
     </task>
     <task id="LOCAL-00001" summary="Implemented the add and add test method">
       <created>1678872360495</created>
@@ -69,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678875208345</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Updated the test">
+      <created>1678875621509</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678875621509</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +95,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Implemented the add and add test method" />
     <MESSAGE value="Given a wrong test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Given a wrong test" />
+    <MESSAGE value="Updated the test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the test" />
   </component>
 </project>

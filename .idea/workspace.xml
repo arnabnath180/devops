@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9b5ca1c-db73-4c21-a769-c3fef4fddf4f" name="Changes" comment="random commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f9b5ca1c-db73-4c21-a769-c3fef4fddf4f" name="Changes" comment="added inventory and playbook">
+      <change beforePath="$PROJECT_DIR$/inventory" beforeDir="false" afterPath="$PROJECT_DIR$/inventory" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678860605541</updated>
       <workItem from="1678860607192" duration="9635000" />
-      <workItem from="1678978220198" duration="2969000" />
+      <workItem from="1678978220198" duration="3625000" />
     </task>
     <task id="LOCAL-00001" summary="Implemented the add and add test method">
       <created>1678872360495</created>
@@ -112,7 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678978578001</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added inventory and playbook">
+      <created>1678993414682</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678993414682</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added inventory and playbook">
+      <created>1678996858490</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678996858490</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +150,7 @@
     <MESSAGE value="Created Dockerfile" />
     <MESSAGE value="Updated Dockerfile" />
     <MESSAGE value="random commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="random commit" />
+    <MESSAGE value="added inventory and playbook" />
+    <option name="LAST_COMMIT_MESSAGE" value="added inventory and playbook" />
   </component>
 </project>

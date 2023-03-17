@@ -1,2 +1,2 @@
 [ubuntu22.04]
-192.168.0.187 ansible_user=arnab
+103.135.228.65 ansible_user=arnab

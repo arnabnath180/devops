@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f9b5ca1c-db73-4c21-a769-c3fef4fddf4f" name="Changes" comment="added inventory and playbook">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inventory" beforeDir="false" afterPath="$PROJECT_DIR$/inventory" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +59,9 @@
       <workItem from="1678860607192" duration="9635000" />
       <workItem from="1678978220198" duration="3625000" />
       <workItem from="1679070864030" duration="891000" />
-      <workItem from="1679081180185" duration="906000" />
+      <workItem from="1679081180185" duration="2233000" />
+      <workItem from="1679127250143" duration="613000" />
+      <workItem from="1679302491633" duration="448000" />
     </task>
     <task id="LOCAL-00001" summary="Implemented the add and add test method">
       <created>1678872360495</created>
@@ -133,7 +133,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678996858490</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added inventory and playbook">
+      <created>1679083764210</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679083764210</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added inventory and playbook">
+      <created>1679084400648</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1679084400648</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
